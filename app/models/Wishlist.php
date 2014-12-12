@@ -1,5 +1,5 @@
 <?php 
-class User extends Eloquent {
+class Wishlist extends Eloquent {
 	protected $table = 'users';
 	protected $fillable = [];
 
