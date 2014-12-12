@@ -1,6 +1,6 @@
 <?php 
-class User extends Eloquent {
-	protected $table = 'users';
+class Random extends Eloquent {
+	protected $table = 'wishlists';
 	protected $fillable = [];
 
 }
